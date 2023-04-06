@@ -7,8 +7,9 @@ It's nothing complicated, the file from the [Youtube Video](https://youtu.be/QTb
 
 I've also created a Doubly Linked List for those who need it. (doublylinkedlist.cpp)
 
-It has <b>two classes</b>, one representing the 'Node' Class (Which holds the data and the pointer to the next node) and the 'LinkedList' Class (obviously)
+It has <b>two classes</b>, one representing the `Node` Class (Which holds the data and the pointer to the next node) and the `LinkedList` Class (obviously)
 
+`
 class Node {
 
 public:
@@ -20,3 +21,4 @@ public:
 		this->nextNode = nextNode;
 	}
 };
+`

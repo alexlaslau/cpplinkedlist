@@ -9,7 +9,7 @@ I've also created a Doubly Linked List for those who need it. (doublylinkedlist.
 
 It has <b>two classes</b>, one representing the `Node` Class (Which holds the data and the pointer to the next node)
 
-```
+```cpp
 class Node {
 
 public:

@@ -8,3 +8,15 @@ It's nothing complicated, the file from the <a href="https://youtu.be/QTb4xGdfC4
 I've also created a Doubly Linked List for those who need it. (doublylinkedlist.cpp)
 
 It has <b>two classes</b>, one representing the <b>Node Class</b> (Which holds the data and the pointer to the next node) and the <b>LinkedList Class</b> (obviously)
+
+class Node {
+
+public:
+	int data = 0;
+	Node* nextNode = nullptr;
+
+	Node(int data, Node* nextNode) {
+		this->data = data;
+		this->nextNode = nextNode;
+	}
+};

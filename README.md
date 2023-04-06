@@ -1,8 +1,9 @@
 # cpplinkedlist
 
 I created a <b>C++ Linked List Data Structure</b> from Scratch.
+<br>
 
-It's nothing complicated, the file from the YT Video can be accessed at singlylinkedlist.cpp.
+It's nothing complicated, the file from the <a href="https://youtu.be/QTb4xGdfC48"YT Video/>can be accessed at singlylinkedlist.cpp.
 
 I've also created a Doubly Linked List for those who need it. (doublylinkedlist.cpp)
 

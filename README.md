@@ -1,5 +1,3 @@
-# cpplinkedlist
-
 <h1>
 I created a <b>C++ Linked List Data Structure</b> from Scratch.
 </h1>

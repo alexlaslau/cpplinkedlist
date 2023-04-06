@@ -77,7 +77,7 @@ public:
         if (index == 0) {
             Node* oldHead = head;
             head = head->nextNode;
-            head->previousNode = nullptr;
+            head->nextNode->previousNode = nullptr;
             delete oldHead;
             oldHead = nullptr;
             length--;

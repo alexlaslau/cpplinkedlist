@@ -38,6 +38,7 @@ public:
 		tail = head;
 		length = 1;
 	}
+};
 ```
 
 These are the basic building blocks, for the entire structure please check the .cpp files

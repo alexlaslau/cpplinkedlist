@@ -1,6 +1,5 @@
-<h1>
-I created a **C++ Linked List Data Structure** from Scratch.
-</h1>
+#I created a **C++ Linked List Data Structure** from Scratch.
+
 <br>
 
 The file from the [Youtube Video](https://youtu.be/QTb4xGdfC48) can be accessed at `singlylinkedlist.cpp`
